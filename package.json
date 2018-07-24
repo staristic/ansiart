@@ -1,0 +1,8 @@
+{
+  "name": "ansiart",
+  "version": "1.0.0",
+  "description": "Draw ptt ANSI at browser",
+  "main": "index.js",
+  "author": "staristic",
+  "license": "MIT"
+}
